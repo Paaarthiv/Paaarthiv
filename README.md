@@ -7,10 +7,6 @@ I design, build, and ship AI-integrated web applications end to end — from Dja
 
 ---
 
-### 🔭 Currently Building
-
-**[SkillScout — AI Recruitment SaaS](https://github.com/Paaarthiv/AI-recruitment-SaaS)** — an enterprise-grade, multi-tenant recruitment & ATS platform. Automated resume parsing, semantic candidate–job matching, and LLM-powered recruiter insights running on a locally hosted model at zero API cost. *"Math decides, AI explains."*
-
 ### 🚀 Featured Projects
 
 | Project | What it is | Stack |

@@ -7,11 +7,16 @@ I design, build, and ship AI-integrated web applications end to end — from Dja
 
 ---
 
+### 🔭 Currently Building
+
+**[SkillScout — AI Recruitment SaaS](https://github.com/Paaarthiv/AI-recruitment-SaaS)** — an enterprise-grade, multi-tenant recruitment & ATS platform. Automated resume parsing, semantic candidate–job matching, and LLM-powered recruiter insights running on a locally hosted model at zero API cost. *"Math decides, AI explains."*
+
 ### 🚀 Featured Projects
 
 | Project | What it is | Stack |
 |---------|------------|-------|
 | [AI Recruitment SaaS](https://github.com/Paaarthiv/AI-recruitment-SaaS) | Multi-tenant recruitment platform with JWT auth, RBAC, and an AI-assisted candidate evaluation pipeline | Django REST Framework · Next.js · TypeScript · PostgreSQL · Supabase · Celery · Redis · Ollama · Docker · GitHub Actions |
+| [Multi-Modal Evidence Review](https://github.com/Paaarthiv/multimodal-evidence-review) | Vision-language AI that verifies damage claims from images + claim text + history into a structured 14-field verdict; provider-agnostic model layer with failover, strict JSON outputs, and prompt-injection defense (0.85 accuracy) | Python · Vision-Language Models (Qwen2.5-VL · GPT-4o · Gemini) · Groq · Ollama · structured outputs · LLM evaluation |
 | [Decentralized Identity Management](https://github.com/Paaarthiv/MyDid_working) | Blockchain-based identity system for tamper-proof, user-owned credential verification | Ethereum (Sepolia) · Solidity · React.js · Ethers.js · IPFS · Node.js · Express.js · Docker |
 
 ### 🛠️ Tech Stack
@@ -22,7 +27,7 @@ I design, build, and ship AI-integrated web applications end to end — from Dja
 
 **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Data & AI:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama_·_Local_LLM-000000?style=flat&logo=ollama&logoColor=white)
+**Data & AI:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama_·_Local_LLM-000000?style=flat&logo=ollama&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white) ![VLM](https://img.shields.io/badge/Vision--Language_Models-7C3AED?style=flat)
 
 **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 

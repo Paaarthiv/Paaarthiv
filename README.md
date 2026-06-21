@@ -1,4 +1,4 @@
-# Hi, I'm Parthiv A M 👋
+# Hi, I'm Parthiv A M 
 
 **Full Stack Developer** — Python · Django · React.js · Next.js | AI/LLM Integration & Automation
 🎓 B.Tech Computer Science Engineering (2026) · 📍 Thiruvananthapuram, Kerala, India

@@ -1,14 +1,18 @@
-# Hi, I'm Parthiv A M 
+# Hi, I'm Parthiv A M
 
 **Full Stack Developer** — Python · Django · React.js · Next.js | AI/LLM Integration & Automation
-🎓 B.Tech Computer Science Engineering (2026) · 📍 Thiruvananthapuram, Kerala, India
+ B.Tech Computer Science Engineering (2026) · 📍 Thiruvananthapuram, Kerala, India
 
 I design, build, and ship AI-integrated web applications end to end — from Django/DRF backends and PostgreSQL schemas to responsive Next.js frontends, CI/CD pipelines, and production deployment.
 
 ---
 
+### 🟢 Open to Work
 
-### 🚀 Featured Projects
+Looking for **Full-Stack / AI Engineer** roles (Full-time & Internship) — **Bengaluru / Remote**, immediate joiner.
+Currently a **Full-Stack Development Trainee at Luminar Technolab** (Python · Django · React · AI integration), sharpening my stack while building applied-AI projects.
+
+###  Featured Projects
 
 | Project | What it is | Stack |
 |---------|------------|-------|
@@ -28,15 +32,15 @@ I design, build, and ship AI-integrated web applications end to end — from Dja
 
 **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Parthiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paaarthiv&show_icons=true&theme=default&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paaarthiv&layout=compact)
 
-### 🤝 Beyond Code
+###  Beyond Code
 
 NCC Senior Under Officer — represented the Kerala Directorate at the Republic Day Camp 2025, New Delhi. Leadership, discipline, and ownership in everything I build.
 
-### 📫 Reach Me
+###  Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parthivam-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/parthivam) [![Email](https://img.shields.io/badge/Email-amparthiv94%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amparthiv94@gmail.com)

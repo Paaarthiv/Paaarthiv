@@ -20,7 +20,7 @@ Currently a **Full-Stack Development Trainee at Luminar Technolab** (Python · D
 | [Multi-Modal Evidence Review](https://github.com/Paaarthiv/multimodal-evidence-review) | Vision-language AI that verifies damage claims from images + claim text + history into a structured 14-field verdict; provider-agnostic model layer with failover, strict JSON outputs, and prompt-injection defense (0.85 accuracy) | Python · Vision-Language Models (Qwen2.5-VL · GPT-4o · Gemini) · Groq · Ollama · structured outputs · LLM evaluation |
 | [Decentralized Identity Management](https://github.com/Paaarthiv/MyDid_working) | Blockchain-based identity system for tamper-proof, user-owned credential verification | Ethereum (Sepolia) · Solidity · React.js · Ethers.js · IPFS · Node.js · Express.js · Docker |
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 

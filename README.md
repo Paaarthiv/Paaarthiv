@@ -1,46 +1,63 @@
-# Hi, I'm Parthiv A M
+# Parthiv A M
 
-**Full Stack Developer** — Python · Django · React.js · Next.js | AI/LLM Integration & Automation
- B.Tech Computer Science Engineering (2026) · 📍 Thiruvananthapuram, Kerala, India
+Full Stack Developer — Python, Django, React.js, Next.js — AI/LLM Integration & Automation
+B.Tech Computer Science Engineering (2026), Thiruvananthapuram, Kerala, India
 
-I design, build, and ship AI-integrated web applications end to end — from Django/DRF backends and PostgreSQL schemas to responsive Next.js frontends, CI/CD pipelines, and production deployment.
+I design, build, and ship AI-integrated web applications end to end — Django/DRF backends, PostgreSQL schemas, responsive Next.js frontends, and production deployments on Docker, Kubernetes, and Google Cloud.
 
 ---
 
-### 🟢 Open to Work
+## Currently
 
-Looking for **Full-Stack / AI Engineer** roles (Full-time & Internship) — **Bengaluru / Remote**, immediate joiner.
-Currently a **Full-Stack Development Trainee at Luminar Technolab** (Python · Django · React · AI integration), sharpening my stack while building applied-AI projects.
+Full-Stack Development Trainee at **Luminar Technolab** (Python, Django, React, AI integration).
+Open to **Full-Stack / AI Engineer** roles — full-time and internship, Bengaluru or remote, immediate joiner.
 
-###  Featured Projects
+---
 
-| Project | What it is | Stack |
-|---------|------------|-------|
-| [AI Recruitment SaaS](https://github.com/Paaarthiv/AI-recruitment-SaaS) | Multi-tenant recruitment platform with JWT auth, RBAC, and an AI-assisted candidate evaluation pipeline | Django REST Framework · Next.js · TypeScript · PostgreSQL · Supabase · Celery · Redis · Ollama · Docker · GitHub Actions |
-| [Multi-Modal Evidence Review](https://github.com/Paaarthiv/multimodal-evidence-review) | Vision-language AI that verifies damage claims from images + claim text + history into a structured 14-field verdict; provider-agnostic model layer with failover, strict JSON outputs, and prompt-injection defense (0.85 accuracy) | Python · Vision-Language Models (Qwen2.5-VL · GPT-4o · Gemini) · Groq · Ollama · structured outputs · LLM evaluation |
-| [Decentralized Identity Management](https://github.com/Paaarthiv/MyDid_working) | Blockchain-based identity system for tamper-proof, user-owned credential verification | Ethereum (Sepolia) · Solidity · React.js · Ethers.js · IPFS · Node.js · Express.js · Docker |
+## Featured Projects
 
-###  Tech Stack
+| Project | Description | Stack |
+|---|---|---|
+| [AI Recruitment SaaS](https://github.com/Paaarthiv/AI-recruitment-SaaS) | Multi-tenant recruitment platform with RBAC and an AI-assisted candidate evaluation pipeline powered by a locally hosted LLM | Django REST Framework, Next.js, TypeScript, PostgreSQL, Supabase, Celery, Redis, Ollama, Docker, GitHub Actions |
+| [Clutch — The Last-Minute Life Saver](https://github.com/Paaarthiv/clutch--The-Last-Minute-Life-Saver-) | Autonomous AI productivity agent that turns messy brain-dumps into a time-blocked daily plan via a Gemini function-calling loop paired with a deterministic scheduler | React 19, TypeScript, Node.js, Express, Gemini 2.5 Flash, Google Cloud Run, Firestore |
+| [Multi-Modal Evidence Review](https://github.com/Paaarthiv/multimodal-evidence-review) | Vision-language system that verifies damage claims from images, conversation, and user history into a structured 14-field verdict, reaching 0.85 claim-status accuracy | Python, Qwen2.5-VL, GPT-4o, Gemini, Groq, Ollama |
+| [Decentralized Identity Management](https://github.com/Paaarthiv/MyDid_working) | Blockchain-based identity system using Ethereum smart contracts for tamper-proof, user-owned credential verification | Ethereum (Sepolia), Solidity, React.js, Ethers.js, IPFS, Docker |
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+---
 
-**Backend:** ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+## Tech Stack
 
-**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Data & AI:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama_·_Local_LLM-000000?style=flat&logo=ollama&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white) ![VLM](https://img.shields.io/badge/Vision--Language_Models-7C3AED?style=flat)
+**Backend**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-**DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-###  GitHub Stats
+**Data & AI**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
-![Parthiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paaarthiv&show_icons=true&theme=default&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paaarthiv&layout=compact)
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-###  Beyond Code
+---
 
-NCC Senior Under Officer — represented the Kerala Directorate at the Republic Day Camp 2025, New Delhi. Leadership, discipline, and ownership in everything I build.
+## GitHub Stats
 
-###  Reach Me
+![Parthiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paaarthiv&show_icons=true&theme=default&hide_rank=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paaarthiv&layout=compact&hide_border=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parthivam-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/parthivam) [![Email](https://img.shields.io/badge/Email-amparthiv94%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amparthiv94@gmail.com)
+---
+
+## Beyond Code
+
+NCC Senior Under Officer — represented the Kerala Directorate at the Republic Day Camp 2025, New Delhi. Leadership, discipline, and ownership carried into every project I build.
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-parthivam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthivam)
+[![Email](https://img.shields.io/badge/Email-amparthiv94%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amparthiv94@gmail.com)

@@ -72,10 +72,14 @@ Docker, Docker Compose, GitHub Actions, Google Cloud Run, Cloud Build, Secret Ma
 
 ## GitHub Snapshot
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Paaarthiv&show_icons=true&hide_rank=true&hide_border=true&theme=default" alt="Parthiv's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaarthiv&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
+| Area | Current signal |
+| --- | --- |
+| Primary work | Full-stack SaaS, AI agents, multimodal AI systems, decentralized identity |
+| Main languages | Python, TypeScript, JavaScript, Solidity |
+| Backend focus | Django REST Framework, Node.js, Express, FastAPI, PostgreSQL, Redis |
+| Frontend focus | React, Next.js, TypeScript, Tailwind CSS, Vite |
+| AI focus | Gemini API, Ollama-compatible models, embeddings, semantic search, structured outputs |
+| Cloud and DevOps | Docker, GitHub Actions, Google Cloud Run, Vercel, Railway |
 
 ## Beyond Code
 

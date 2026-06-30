@@ -1,63 +1,88 @@
+<div align="center">
+
 # Parthiv A M
 
-Full Stack Developer — Python, Django, React.js, Next.js — AI/LLM Integration & Automation
-B.Tech Computer Science Engineering (2026), Thiruvananthapuram, Kerala, India
+### Full-Stack Developer focused on AI-integrated web products
 
-I design, build, and ship AI-integrated web applications end to end — Django/DRF backends, PostgreSQL schemas, responsive Next.js frontends, and production deployments on Docker, Kubernetes, and Google Cloud.
+I build production-minded web applications with strong backend systems, clean frontend experiences, and practical AI workflows. My work spans Django/DRF, React, Next.js, PostgreSQL, cloud deployment, LLM integration, automation, and security-aware product engineering.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paaarthiv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-parthivam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthivam)
+[![Email](https://img.shields.io/badge/Email-amparthiv94%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amparthiv94@gmail.com)
 
-## Currently
-
-Full-Stack Development Trainee at **Luminar Technolab** (Python, Django, React, AI integration).
-Open to **Full-Stack / AI Engineer** roles — full-time and internship, Bengaluru or remote, immediate joiner.
+</div>
 
 ---
+
+## About
+
+I am a B.Tech Computer Science Engineering student, 2026 batch, based in Thiruvananthapuram, Kerala. I am currently training in full-stack development at Luminar Technolab, with a focus on Python, Django, React, and AI integration.
+
+I enjoy building complete products rather than isolated demos: database design, APIs, authentication, background jobs, AI pipelines, frontend workflows, deployment, documentation, and polish. I am open to full-stack, backend, and AI engineer roles or internships.
+
+## Current Focus
+
+- Building full-stack SaaS products with Django REST Framework, Next.js, PostgreSQL, Celery, Redis, and Docker.
+- Designing AI-assisted workflows using Gemini, Ollama-compatible models, vector search, structured outputs, and evaluation loops.
+- Improving deployment, testing, security, and documentation discipline across projects.
+- Turning hackathon prototypes into clean, reusable, portfolio-grade repositories.
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [AI Recruitment SaaS](https://github.com/Paaarthiv/AI-recruitment-SaaS) | Multi-tenant recruitment platform with RBAC and an AI-assisted candidate evaluation pipeline powered by a locally hosted LLM | Django REST Framework, Next.js, TypeScript, PostgreSQL, Supabase, Celery, Redis, Ollama, Docker, GitHub Actions |
-| [Clutch — The Last-Minute Life Saver](https://github.com/Paaarthiv/clutch--The-Last-Minute-Life-Saver-) | Autonomous AI productivity agent that turns messy brain-dumps into a time-blocked daily plan via a Gemini function-calling loop paired with a deterministic scheduler | React 19, TypeScript, Node.js, Express, Gemini 2.5 Flash, Google Cloud Run, Firestore |
-| [Multi-Modal Evidence Review](https://github.com/Paaarthiv/multimodal-evidence-review) | Vision-language system that verifies damage claims from images, conversation, and user history into a structured 14-field verdict, reaching 0.85 claim-status accuracy | Python, Qwen2.5-VL, GPT-4o, Gemini, Groq, Ollama |
-| [Decentralized Identity Management](https://github.com/Paaarthiv/MyDid_working) | Blockchain-based identity system using Ethereum smart contracts for tamper-proof, user-owned credential verification | Ethereum (Sepolia), Solidity, React.js, Ethers.js, IPFS, Docker |
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [SkillScout - AI Recruitment SaaS](https://github.com/Paaarthiv/AI-recruitment-SaaS) | A full-stack recruitment platform with recruiter and candidate workflows, AI-assisted screening, semantic search, resume parsing, batch processing, analytics, and production deployment. | Django REST Framework, Next.js, TypeScript, PostgreSQL, pgvector, Celery, Redis, Docker, GitHub Actions |
+| [Clutch - The Last-Minute Life Saver](https://github.com/Paaarthiv/clutch--The-Last-Minute-Life-Saver-) | An autonomous AI productivity agent that converts messy brain-dumps into prioritized, time-blocked plans using Gemini function calling, Google Cloud services, Calendar sync, Firestore persistence, and spoken rescue summaries. | React 19, TypeScript, Node.js, Express, Gemini 2.5 Flash, Google Cloud Run, Firestore, Cloud Text-to-Speech |
+| [Multi-Modal Evidence Review](https://github.com/Paaarthiv/multimodal-evidence-review) | A vision-language claim verification system that evaluates damage evidence from images, conversations, and user history with deterministic policy checks, prompt-injection defense, structured outputs, and model fallback. | Python, Qwen2.5-VL, GPT-4o, Gemini, Groq, Ollama, evaluation harnesses |
+| [Decentralized Identity Management](https://github.com/Paaarthiv/MyDid_working) | A decentralized identity application for issuing, presenting, and verifying credentials using wallet auth, Ethereum anchoring, IPFS storage, QR-based sharing, and selective disclosure concepts. | React, Vite, Node.js, Express, Solidity, Ethereum Sepolia, ethers.js, IPFS, Docker |
 
----
+## Technical Strengths
 
-## Tech Stack
+### Backend and APIs
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Django, Django REST Framework, Node.js, Express, FastAPI, REST API design, JWT authentication, RBAC, background jobs, rate limiting, security headers, API documentation, and production deployment patterns.
 
-**Backend**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+### Frontend and Product UI
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+React, Next.js, TypeScript, Tailwind CSS, Vite, responsive UI, dashboard workflows, form-heavy products, accessibility-aware controls, and polished product documentation.
 
-**Data & AI**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+### Data, AI, and Automation
 
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+PostgreSQL, pgvector, Redis, Firestore, Gemini API, Ollama-compatible LLMs, embeddings, semantic search, structured AI outputs, vision-language models, evaluation pipelines, and AI-assisted automation.
 
----
+### DevOps and Cloud
 
-## GitHub Stats
+Docker, Docker Compose, GitHub Actions, Google Cloud Run, Cloud Build, Secret Manager, Railway, Vercel, environment management, CI checks, and deployment documentation.
 
-![Parthiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paaarthiv&show_icons=true&theme=default&hide_rank=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paaarthiv&layout=compact&hide_border=true)
+## Tools I Use
 
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini API" />
+</p>
+
+## GitHub Snapshot
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Paaarthiv&show_icons=true&hide_rank=true&hide_border=true&theme=default" alt="Parthiv's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaarthiv&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
 
 ## Beyond Code
 
-NCC Senior Under Officer — represented the Kerala Directorate at the Republic Day Camp 2025, New Delhi. Leadership, discipline, and ownership carried into every project I build.
-
----
+NCC Senior Under Officer. Represented the Kerala Directorate at the Republic Day Camp 2025 in New Delhi. I carry that discipline, ownership, and leadership mindset into the way I build and ship software.
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parthivam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthivam)
-[![Email](https://img.shields.io/badge/Email-amparthiv94%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amparthiv94@gmail.com)
+- LinkedIn: [linkedin.com/in/parthivam](https://www.linkedin.com/in/parthivam)
+- Email: [amparthiv94@gmail.com](mailto:amparthiv94@gmail.com)
+- GitHub: [github.com/Paaarthiv](https://github.com/Paaarthiv)

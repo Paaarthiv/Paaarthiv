@@ -132,15 +132,15 @@ Blockchain-based identity system using Ethereum smart contracts for tamper-proof
 
 ## GitHub Analytics
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Paaarthiv&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false" /></td>
-<td><img src="https://streak-stats.demolab.com/?user=Paaarthiv&theme=tokyonight&hide_border=true" /></td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaarthiv&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=Paaarthiv&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+![Followers](https://img.shields.io/github/followers/Paaarthiv?style=for-the-badge&logo=github&label=Followers&color=4F8DFD)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Paaarthiv&label=Public%20Repos&query=public_repos&style=for-the-badge&logo=github&color=4F8DFD)
+
 </div>
 
 <br/>

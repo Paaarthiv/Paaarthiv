@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=190&section=header&text=Parthiv%20A%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FLLM%20Integration%20%26%20Automation&descSize=18&descAlignY=60&descColor=d7e3f4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Parthiv%20A%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FLLM%20Integration%20%26%20Automation&descSize=18&descAlignY=60&descColor=D7E3F4&reversal=false" width="100%"/>
 
 <a href="https://github.com/Paaarthiv">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=4F8DFD&center=true&vCenter=true&width=650&lines=Building+AI-integrated+web+applications;Python+%C2%B7+Django+%C2%B7+React.js+%C2%B7+Next.js;Shipping+production-grade+apps%2C+end+to+end" alt="Typing SVG" />
@@ -70,4 +70,4 @@ Blockchain-based identity system using Ethereum smart contracts for tamper-proof
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white) ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
 
-![Stars](https://img.shields.io/github/stars/Paaarthiv/MyDid_working?style=flat-square&logo=github&label=stars&color=4F8DFD) ![Last Commit](https://img.shields.io/github/last-commit/Paaarthiv/MyDid_working?style=flat-square&c
+![Stars](https://img.shields.io/github/stars/Paaarthiv/MyDid_working?style=flat-square&logo=github&label=stars&color=4F8DFD) ![Last Commit](https://img.shields.io/github/last-commit/Paaarthiv/MyDid_working?style=flat-square&col

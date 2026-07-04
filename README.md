@@ -98,6 +98,27 @@ Blockchain-based identity system using Ethereum smart contracts for tamper-proof
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Company Research Assistant](https://github.com/Paaarthiv/Company-Research-Assistant)
+AI company-intelligence app — enter a name or URL and get a structured report (profile, pain points, competitor analysis) with a downloadable PDF, through a ChatGPT-style interface. **[Live demo &rarr;](https://company-research-assistant-ecru.vercel.app/)**
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logo=openai&logoColor=white)
+
+![Stars](https://img.shields.io/github/stars/Paaarthiv/Company-Research-Assistant?style=flat-square&logo=github&label=stars&color=4F8DFD)
+![Last Commit](https://img.shields.io/github/last-commit/Paaarthiv/Company-Research-Assistant?style=flat-square&color=4F8DFD)
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -113,6 +134,7 @@ Blockchain-based identity system using Ethereum smart contracts for tamper-proof
 **AI / LLM**
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 **Blockchain**

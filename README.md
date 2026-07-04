@@ -102,7 +102,7 @@ Blockchain-based identity system using Ethereum smart contracts for tamper-proof
 <td width="50%" valign="top">
 
 ### [Company Research Assistant](https://github.com/Paaarthiv/Company-Research-Assistant)
-AI company-intelligence app — enter a name or URL and get a structured report (profile, pain points, competitor analysis) with a downloadable PDF, through a ChatGPT-style interface. **[Live demo &rarr;](https://company-research-assistant-ecru.vercel.app/)**
+AI company-intelligence app — enter a name or URL and get a structured report (profile, pain points, competitor analysis) with a downloadable PDF. **[Live demo &rarr;](https://company-research-assistant-ecru.vercel.app/)**
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)

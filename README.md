@@ -47,7 +47,7 @@ Multi-tenant recruitment platform with RBAC and a self-hosted, AI-assisted candi
 ![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
 
 ![Stars](https://img.shields.io/github/stars/Paaarthiv/AI-recruitment-SaaS?style=flat-square&logo=github&label=stars&color=4F8DFD)
 ![Last Commit](https://img.shields.io/github/last-commit/Paaarthiv/AI-recruitment-SaaS?style=flat-square&color=4F8DFD)
@@ -75,9 +75,6 @@ Autonomous AI productivity agent — Gemini function-calling loop paired with a 
 Vision-language claim-verification system reaching 0.85 accuracy, with provider-agnostic failover.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Qwen2.5-VL](https://img.shields.io/badge/Qwen2.5--VL-6236FF?style=flat-square)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 
 ![Stars](https://img.shields.io/github/stars/Paaarthiv/multimodal-evidence-review?style=flat-square&logo=github&label=stars&color=4F8DFD)
 ![Last Commit](https://img.shields.io/github/last-commit/Paaarthiv/multimodal-evidence-review?style=flat-square&color=4F8DFD)

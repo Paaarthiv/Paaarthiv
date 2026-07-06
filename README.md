@@ -47,6 +47,7 @@ Multi-tenant recruitment platform with RBAC and a self-hosted, AI-assisted candi
 ![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 
 ![Stars](https://img.shields.io/github/stars/Paaarthiv/AI-recruitment-SaaS?style=flat-square&logo=github&label=stars&color=4F8DFD)

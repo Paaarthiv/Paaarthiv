@@ -76,6 +76,7 @@ Autonomous AI productivity agent — Gemini function-calling loop paired with a 
 Vision-language claim-verification system reaching 0.85 accuracy, with provider-agnostic failover.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 ![Stars](https://img.shields.io/github/stars/Paaarthiv/multimodal-evidence-review?style=flat-square&logo=github&label=stars&color=4F8DFD)
 ![Last Commit](https://img.shields.io/github/last-commit/Paaarthiv/multimodal-evidence-review?style=flat-square&color=4F8DFD)

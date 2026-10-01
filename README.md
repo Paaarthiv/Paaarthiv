@@ -24,7 +24,7 @@ I'm a final-year Computer Science undergraduate who enjoys turning messy, real-w
 |  |  |
 |---|---|
 | **Role** | Full Stack Developer — Full-time & Internship |
-| **Focus** | AI / LLM Integration & Automation |
+| **Focus** | Generative AI |
 | **Currently** | Full-Stack Development Trainee @ Luminar Technolab |
 | **Education** | B.Tech, Computer Science Engineering (2026) |
 | **Location** | Thiruvananthapuram, Kerala, India |
